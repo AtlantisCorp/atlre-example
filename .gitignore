@@ -1,0 +1,8 @@
+# Ignores the build files.
+build/*
+
+# Ignores the docs files.
+docs/*
+
+# Ignores all .DS_Store files
+.DS_Store
