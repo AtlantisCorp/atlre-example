@@ -1,0 +1,3 @@
+[submodule "libs/atlre"]
+	path = libs/atlre
+	url = https://github.com/AtlantisCorp/atlre.git
